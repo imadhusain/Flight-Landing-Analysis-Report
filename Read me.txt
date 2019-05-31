@@ -1,0 +1,4 @@
+1. Problem statement in the file Project
+2. Datasets are csv FAA1 AND FAA2
+3. Flight Landing Analysis Report is the final document. It also has the SAS code in it
+4. CRISP-DM and crisp_visualguide are supporting documents for the framework used
